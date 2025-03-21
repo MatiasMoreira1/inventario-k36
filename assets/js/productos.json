@@ -1,5 +1,10 @@
 [
     {
+        "nombre": "Ejemplo Vencido",
+        "fecha_vencimiento": "02/17/2025",
+        "gondola": "Galletas"
+    },
+    {
         "nombre": "Mana Rellenas",
         "fecha_vencimiento": "04/17/2025",
         "gondola": "Galletas"
