@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inventario</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.0.2/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inventario</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.0.2/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body class="bg-slate-50 flex items-center justify-center font-montserrat">
+    <div class="cont w-8/12">
+
+        <div class="container mx-auto p-4">
+            <h1 class="text-3xl font-bold mb-4 font-bricolage">Inventario</h1>
+        
+        <!-- Fecha Actual -->
+        <p id="fecha-actual" class="mb-4"></p>
+
+        <!-- Menú de selección para ordenar -->
+        <div class="mb-4">
+            <label for="ordenar" class="mr-2">Ordenar por:</label>
+            <select id="ordenar" class="border px-4 py-2 rounded">
+                <option value="defecto">Por Defecto</option>
+                <option value="fecha">Por Fecha de Vencimiento</option>
+                <option value="gondola">Por Góndola</option>
+            </select>
+        </div>
+        
+        <!-- Tabla de Productos -->
+        <table class="table-auto w-full border-collapse">
+            <thead>
+                <tr>
+                    <th class="border p-2">Producto</th>
+                    <th class="border p-2">Fecha de Vencimiento</th>
+                    <th class="border p-2">Góndola</th>
+                    <th class="border p-2">Estado</th>
+                </tr>
+            </thead>
+            <tbody id="productos-lista"></tbody>
+        </table>
+    </div>
+</div>
+    <script src="/assets/js/main.js"></script>
+</body>
+</html>
