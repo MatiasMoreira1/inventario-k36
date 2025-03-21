@@ -1,0 +1,202 @@
+[
+    {
+        "nombre": "Mana Rellenas",
+        "fecha_vencimiento": "04/17/2025",
+        "gondola": "Galletas"
+    },
+    {
+        "nombre": "Opera 92gr",
+        "fecha_vencimiento": "04/07/2025",
+        "gondola": "Galletas"
+    },
+    {
+        "nombre": "Opera 55gr",
+        "fecha_vencimiento": "04/13/2025",
+        "gondola": "Galletas"
+    },
+    {
+        "nombre": "Muffins Vainilla 200gr",
+        "fecha_vencimiento": "04/21/2025",
+        "gondola": "Sin Gluten"
+    },
+    {
+        "nombre": "Budín Vainilla 200gr",
+        "fecha_vencimiento": "04/20/2025",
+        "gondola": "Sin Gluten"
+    },
+    {
+        "nombre": "Pan 350gr",
+        "fecha_vencimiento": "03/31/2025",
+        "gondola": "Sin Gluten"
+    },
+    {
+        "nombre": "Pan Tortuga",
+        "fecha_vencimiento": "03/27/2025",
+        "gondola": "Sin Gluten"
+    },
+    {
+        "nombre": "Juana La Loca",
+        "fecha_vencimiento": "04/25/2025",
+        "gondola": "Sin Gluten"
+    },
+    {
+        "nombre": "Takis Original 56gr",
+        "fecha_vencimiento": "03/24/2025",
+        "gondola": "Takis"
+    },
+    {
+        "nombre": "Rapiditos Clásicas",
+        "fecha_vencimiento": "04/02/2025",
+        "gondola": "Panificados"
+    },
+    {
+        "nombre": "Wrap",
+        "fecha_vencimiento": "04/12/2025",
+        "gondola": "Sin Gluten"
+    },
+    {
+        "nombre": "Cerealitas Clasicas 212gr",
+        "fecha_vencimiento": "04/07/2025",
+        "gondola": "Galletas (S)"
+    },
+    {
+        "nombre": "Rastaman merenguelo",
+        "fecha_vencimiento": "03/26/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Rastaman Chocolate Negro",
+        "fecha_vencimiento": "03/26/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Rastaman Chocolate Blanco",
+        "fecha_vencimiento": "03/26/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Rastaman Chocolate Negro",
+        "fecha_vencimiento": "04/04/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Rastaman Chocolate Blanco",
+        "fecha_vencimiento": "04/02/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Alfajor Granola Pasta de maní",
+        "fecha_vencimiento": "04/20/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Granola Chocolate Blanco",
+        "fecha_vencimiento": "03/25/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Alfajor Ice-Lemon",
+        "fecha_vencimiento": "03/29/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Alfajor Red-Velvet",
+        "fecha_vencimiento": "04/12/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Sierras de Minas chocolate blanco",
+        "fecha_vencimiento": "04/09/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Extra de Sierras de Minas",
+        "fecha_vencimiento": "04/20/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Sierras de Minas R y A",
+        "fecha_vencimiento": "04/12/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Juana la Loca Salchichón",
+        "fecha_vencimiento": "04/18/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Hogareñas Mix Cereales",
+        "fecha_vencimiento": "04/08/2025",
+        "gondola": "Galletas(S)"
+    },
+    {
+        "nombre": "Juana la Loca Salchichón Blanco",
+        "fecha_vencimiento": "04/12/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Juana la Loca Salchichón Blanco",
+        "fecha_vencimiento": "04/07/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Juana la Loca Salchichón Merengue",
+        "fecha_vencimiento": "04/08/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Juana la Loca Salchichón Merengue",
+        "fecha_vencimiento": "04/17/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Kinko Jr Negro",
+        "fecha_vencimiento": "04/10/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Kinko Jr Blanco",
+        "fecha_vencimiento": "04/11/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Cachafaz Chocolate Negro",
+        "fecha_vencimiento": "04/10/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Cachafaz Chocolate Blanco",
+        "fecha_vencimiento": "04/10/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Galleta Malteada(Famosa) Sin Sal",
+        "fecha_vencimiento": "04/18/2025",
+        "gondola": "Galletas (S)"
+    },
+    {
+        "nombre": "Alfajor Agua Helada Coco chocolate",
+        "fecha_vencimiento": "04/20/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Alfajor de Maicena Mamushka",
+        "fecha_vencimiento": "04/03/2025",
+        "gondola": "Alfajores"
+    },
+    {
+        "nombre": "Galleta Premium Cereales(La Trigueña)",
+        "fecha_vencimiento": "04/05/2025",
+        "gondola": "Galletas(S)"
+    },
+    {
+        "nombre": "Galleta Premium Salvado(La Trigueña)",
+        "fecha_vencimiento": "04/05/2025",
+        "gondola": "Galletas (S)"
+    },
+    {
+        "nombre": "Finitos Horneados Salvado",
+        "fecha_vencimiento": "03/27/2025",
+        "gondola": "Galletas (S)"
+    }
+]
