@@ -35,9 +35,9 @@ document.addEventListener("DOMContentLoaded", async function() {
             let estadoHTML = "";
 
             if (diasRestantes < 0) {
-                estadoHTML = `<span class="text-center bg-red-800 px-3 py-1 rounded-full text-gray-50 font-bold">x</i> Vencido</span>`;
+                estadoHTML = `<span class="text-center bg-red-800 px-3 py-1 rounded-full text-gray-50 font-bold"><i class="fas fa-exclamation-triangle"></i></span>`;
             } else if (diasRestantes <= 3 && diasRestantes >= 0) {
-                estadoHTML = `<span class="text-center bg-yellow-800 px-3 py-1 rounded-full text-gray-50 font-bold"><i class="fas fa-exclamation-triangle"></i> Remover</span>`;
+                estadoHTML = `<span class="text-center bg-yellow-600 px-3 py-1 rounded-full text-gray-50 font-bold"><i class="fas fa-exclamation-triangle"></i></span>`;
             } else {
                 estadoHTML = `<span class="text-center bg-green-800 px-3 py-1 rounded-full text-gray-50 font-bold"><i class="fas fa-check-circle"></i> OK</span>`;
             }
